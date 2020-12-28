@@ -5,6 +5,6 @@ Text-analyzer is a simple python Flask based project where user can upload a .tx
 python3 and flask installed
 
 # how to run 
-clone the git project
-Run the code with python textAnalyzer.py
+clone the git project <br/>
+Run the code with python textAnalyzer.py <br/>
 hit the url 127.0.0.1:5000/
